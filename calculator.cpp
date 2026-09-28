@@ -34,6 +34,5 @@ int main(){
         default:
             std::cout << "Please enter a valid operator.";
     }
-
     return 0;
 }
